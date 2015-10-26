@@ -1,0 +1,5 @@
+<resources>
+	<declare-styleable name="ArrowView">  
+	     <attr name="arrow" format="reference" />
+	</declare-styleable>
+</resources>
