@@ -1,4 +1,4 @@
-package com.cocoonshu.example.canvasview;
+package com.cocoonshu.example.animationview;
 
 import android.content.Context;
 import android.content.res.TypedArray;

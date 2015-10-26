@@ -1,5 +1,5 @@
 
-package com.cocoonshu.example.canvasview;
+package com.cocoonshu.example.animationview;
 
 import android.os.Bundle;
 import android.app.Activity;
